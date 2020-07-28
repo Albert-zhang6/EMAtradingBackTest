@@ -110,8 +110,3 @@ print()
 
 
 
-#6 short term emas in red
-#6 short term emas in blue
-
-#entry pt: short term ema crosses above the blue
-#sell signal: short term ema falls below
